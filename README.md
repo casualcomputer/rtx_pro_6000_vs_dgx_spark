@@ -3,6 +3,8 @@
 ## Summary
 This guide compares real-world LLM inference performance between NVIDIA's DGX Spark (GB10) integrated system and the RTX Pro 6000 Blackwell workstation GPU. Based on comprehensive benchmarks, the RTX Pro 6000 delivers **6-7x faster inference** across all batch sizes and model types, with significantly lower end-to-end latency.
 
+<img width="1346" height="754" alt="rtx_pro_6000_vs_dgx_spark" src="https://github.com/user-attachments/assets/a388480c-cbef-4137-acd8-8d723baa5ff0" />
+
 ---
 
 ## Understanding the Hardware
